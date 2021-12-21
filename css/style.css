@@ -11,12 +11,15 @@
 
 *{
   box-sizing: border-box;
-	outline: 1px solid red;
+	/* 
+	
+	*/
 }
 
 body{
   font-family: Roboto sans-serif;
   font-weight: 400;
+	
 }
 
 
@@ -33,6 +36,7 @@ body{
 	background: #635854;
 	padding-top: 12px;
 	padding-bottom: 12px;
+	
 	
 
 }
@@ -174,3 +178,47 @@ margin-bottom: 10px;
 }
 
 
+
+
+
+
+@media (max-width: 1077px) {
+	.logo {
+		margin-right: 0px;
+	}
+.navbar{
+	max-width: 1016px;
+}
+.main{
+	max-width: 1016px;
+}
+
+}
+
+@media (max-width: 1200px) {
+	.logo {
+		margin-right: 0px;
+	}
+
+	.navbar {
+		max-width: 1010px;
+	}
+
+	.main {
+		max-width: 1010px;
+	}
+
+	.main-title {
+
+		font-size: 26px;
+	}
+
+	.button-primary {
+		padding: 13px 18px;
+	}
+
+	.button {
+		font-size: 16px;
+		line-height: 19px;
+	}
+}
