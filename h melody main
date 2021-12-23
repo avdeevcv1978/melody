@@ -1,0 +1,48 @@
+[33mcommit 6e7ec1843ed92c6a2acd08ea24fd8d89b142eb58[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: avdeevcv1978 <avdeevcv1978@mail.ru>
+Date:   Thu Dec 23 14:00:37 2021 +0300
+
+    закончили счетчик этажей
+
+[33mcommit a2a50a84b349355019f7f773d9d529c683bed69f[m[33m ([m[1;31mmelody/main[m[33m)[m
+Merge: e5e0992 77e0783
+Author: avdeevcv1978 <avdeevcv1978@mail.ru>
+Date:   Thu Dec 23 12:35:11 2021 +0300
+
+    Создали счетчик
+
+[33mcommit e5e09923be3aeabd59f4a07e4c290e77d78119ec[m
+Author: avdeevcv1978 <avdeevcv1978@mail.ru>
+Date:   Tue Dec 21 22:16:04 2021 +0300
+
+    добавили счетчик
+
+[33mcommit 77e0783a7002adaf69d6fee6c9bff740bd1bb4b4[m
+Author: Sergei Avdeev <52350472+avdeevcv1978@users.noreply.github.com>
+Date:   Sat Dec 18 22:37:17 2021 +0300
+
+    Update README.md
+
+[33mcommit 5b5adf7e0e40c0e286beb9b8eb4819f268617758[m
+Author: avdeevcv1978 <avdeevcv1978@mail.ru>
+Date:   Sat Dec 18 22:29:54 2021 +0300
+
+    удален файл
+
+[33mcommit 7760a8b50861da56e4348e1f318c862d96e0ccb3[m
+Author: Sergei Avdeev <52350472+avdeevcv1978@users.noreply.github.com>
+Date:   Sat Dec 18 22:22:52 2021 +0300
+
+    Create catalog.html
+
+[33mcommit ca4737366c001b766f05da87f358bd8418643e69[m
+Author: avdeevcv1978 <avdeevcv1978@mail.ru>
+Date:   Sat Dec 18 21:57:06 2021 +0300
+
+    создали каркас и раздел main
+
+[33mcommit 221d7720fd2df3ecb9261137f4085b19b29b7ebc[m
+Author: Sergei Avdeev <52350472+avdeevcv1978@users.noreply.github.com>
+Date:   Sat Dec 18 20:47:22 2021 +0300
+
+    Initial commit
